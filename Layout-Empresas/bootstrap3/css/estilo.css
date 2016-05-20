@@ -1,0 +1,21 @@
+h1#logo{
+  margin: 50px 50px 50px 70px;
+}
+
+.clear{
+  margin-top: 100px;
+}
+
+.nome-usuario{
+  font-size: 33px;
+}
+
+div#a{
+	width: 100%;
+	float: left;
+}
+
+div#main{
+
+	margin-top: 50px;
+}
